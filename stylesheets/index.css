@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: papayawhip;
+  background-color:black;
 }
 
 code {
@@ -37,7 +37,7 @@ input {
 
 button {
   background-color:white;
-  color: white;
+  color:black;
   font-size: large;
   font-weight: bolder;
   border-radius: 10px;
